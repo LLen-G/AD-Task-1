@@ -15,8 +15,8 @@
     <div class="main">
         <div class="character-enemy-container">
             <div class="characters">
-                <img src="/assets/img/Furina.png" alt="Character 1" class="character">
-                <img src="/assets/img/Skirk.png" alt="Character 2" class="character2">
+                <img src="../assets/img/Furina.png" alt="Character 1" class="character">
+                <img src="../assets/img/Skirk.png" alt="Character 2" class="character2">
             </div>
             <div class="game-text">
                 <h1>Genshin Impact Battle Simulator</h1>
@@ -69,11 +69,11 @@
                 }
                 ?>
                 <br>
-                <a href="/index.php" class="btn-link">Back to Homepage</a>
+                <a href="../index.php" class="btn-link">Back to Homepage</a>
             </div>
 
             <div class="enemy">
-                <img src="/assets/img/ruinGuard.png" alt="Enemy" class="enemy-img">
+                <img src="../assets/img/ruinGuard.png" alt="Enemy" class="enemy-img">
             </div>
         </div>
     </div>
